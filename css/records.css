@@ -8,7 +8,8 @@
     height: 50px;
     background-color: var(--primary-color);
     padding-left: 20px;
-    font-size: 1.2rem;    
+    font-size: 1.2rem;
+    COLOR: #FFF    
 }
 .records td{
     height: 50px;
