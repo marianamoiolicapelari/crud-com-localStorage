@@ -1,7 +1,8 @@
 # Crud com armazenamento de arquivos no localStorage.
 
 ## 💻 Sobre o Projeto
-
+CRUD desenvolvido em Vanilla JS, utilizando o localStorage para armazenar os dados. Foi utilizado modal para cadastrar cada cliente utilizando um visual mais clean
+e objetivo. Proposto para ser bem visualizado em desktop e mobile utilizando midia queries para trabalhar a responsividade.
 
 ## 🎨 Layout
 
