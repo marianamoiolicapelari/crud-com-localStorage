@@ -6,7 +6,7 @@ e objetivo. Proposto para ser bem visualizado em desktop e mobile utilizando mid
 
 ## 🎨 Layout
 
-![image]()
+![image](https://github.com/marianamoiolicapelari/crud-com-localStorage/blob/main/layoult%20CRUD.png)
 
 ## 🛠 Tecnologias
 
